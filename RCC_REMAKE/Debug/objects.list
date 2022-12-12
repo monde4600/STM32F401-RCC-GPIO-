@@ -1,0 +1,7 @@
+"./Inc/LIB/02_Delay/Delay_Program.o"
+"./Inc/MCAL/GPIO/GPIO_prog.o"
+"./Inc/MCAL/RCC/RCC_prog.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f401vetx.o"
